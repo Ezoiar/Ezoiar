@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ezoiar
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me not yet
-
-- [![Discord Presence](https://lanyard.cnrad.dev/api/308267911481524224)](https://discord.com/users/308267911481524224)
+[![Discord Presence](https://lanyard.cnrad.dev/api/308267911481524224)](https://discord.com/users/308267911481524224)
+- 👋 Hi, I’m Ezoiar, you can also call me by my real name; Xander.
+- 👀 I’m interested in Computer Science and Game Developer.
+- 🌱 I’m currently learning... uh, nothing regarding computer science or game developing
+- 💞️ I’m looking to collaborate on nothing yet.
+- [📫 How to reach me](https://ezoiar.neocities.org)
 
 <!---
 Ezoiar/Ezoiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
